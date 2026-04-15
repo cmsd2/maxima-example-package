@@ -1,0 +1,9 @@
+/* Tests for hello-world */
+
+/* load the package */
+(load("hello-world"), true);
+true;
+
+/* test the demo function */
+hello-world_hello();
+"hello-world is loaded!";

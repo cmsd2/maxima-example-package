@@ -1,0 +1,11 @@
+/* hello-world — TODO: describe this package
+ *
+ * Usage:
+ *   load("hello-world");
+ *   hello-world_hello();
+ */
+
+/* Uncomment after running 'mxpm doc build' to enable ? and ?? help lookup */
+/* load("hello-world-index.lisp")$ */
+
+hello-world_hello() := print("hello-world is loaded!")$

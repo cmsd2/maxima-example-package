@@ -1,0 +1,10 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+description = "TODO: describe hello-world"
+license = "MIT"
+entry = "hello-world.mac"
+doc = "doc/hello-world.md"
+
+[test]
+files = ["rtest_hello-world.mac"]

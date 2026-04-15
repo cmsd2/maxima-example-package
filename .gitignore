@@ -1,0 +1,7 @@
+*~
+*.fas
+*.o
+.mxpm.json
+doc/book/
+doc/*.texi
+doc/*.info
