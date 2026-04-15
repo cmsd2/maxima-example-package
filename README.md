@@ -1,5 +1,7 @@
 # hello-world
 
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://cmsd2.github.io/maxima-example-package/)
+
 TODO: Describe what this package does.
 
 ## Install
