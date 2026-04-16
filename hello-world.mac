@@ -2,9 +2,9 @@
  *
  * Usage:
  *   load("hello-world");
- *   hello-world_hello();
+ *   hello_world_hello();
  */
 
 load("hello-world-index.lisp")$
 
-hello-world_hello() := print("hello-world is loaded!")$
+hello_world_hello() := print("hello-world is loaded!")$

@@ -5,5 +5,5 @@
 true;
 
 /* test the demo function */
-hello-world_hello();
+hello_world_hello();
 "hello-world is loaded!";

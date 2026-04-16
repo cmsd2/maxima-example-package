@@ -22,7 +22,7 @@ mxpm install --path .
 
 ```maxima
 load("hello-world");
-hello-world_hello();
+hello_world_hello();
 ```
 
 ## Documentation
